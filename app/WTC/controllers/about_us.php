@@ -4,7 +4,7 @@ class About_us extends MY_Controller {
 
 	public function index()
 	{
-		$this->data['title'] = '- EBIS | About Us -';
+		$this->data['title'] = '- WTC | About Us -';
 
 		$this->load->helper('url');
 

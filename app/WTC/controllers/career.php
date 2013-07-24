@@ -4,7 +4,7 @@ class Career extends MY_Controller {
 
 	public function index()
 	{
-		$this->data['title'] = '- EBIS | Career -';
+		$this->data['title'] = '- WTC | Career -';
 
 		$this->load->helper('url');
 

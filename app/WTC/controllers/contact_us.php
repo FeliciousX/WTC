@@ -4,7 +4,7 @@ class Contact_us extends MY_Controller {
 
 	public function index()
 	{
-		$this->data['title'] = '- EBIS | Contact Us -';
+		$this->data['title'] = '- WTC | Contact Us -';
 
 		$this->load->helper('url');
 

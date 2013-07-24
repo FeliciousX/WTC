@@ -8,18 +8,6 @@
 
 			<h2 id="address">Corporate Address</h2>
 			<address>
-				EBIS Training Centre Sdn Bhd <br />
-				Sublot 36, 2nd Floor, <br />
-				The 3rd Exchange Commercial Centre, <br />
-				Jalan Datuk Tawi Sli, <br />
-				93250 Kuching, <br />
-				Sarawak, Malaysia. <br /><br />
-
-				General Line : (+6) 082-570 128 <br />
-				Fax   		 : (+6) 082-570 248 <br />
-			</address>
-
-			<address>
 				World Class Training Centre Sdn Bhd <br />
 				Sublot 36, 1st Floor, <br />
 				The 3rd Exchange Commercial Centre, <br />
@@ -30,8 +18,22 @@
 				General Line : (+6) 082-570 128 <br />
 				Fax   		 : (+6) 082-570 248 <br />
 			</address>
+			<address>
+				<a href="http://ebiscentre.com/" target="_blank">EBIS Training Centre Sdn Bhd</a> <br />
+				Sublot 36, 2nd Floor, <br />
+				The 3rd Exchange Commercial Centre, <br />
+				Jalan Datuk Tawi Sli, <br />
+				93250 Kuching, <br />
+				Sarawak, Malaysia. <br /><br />
 
-			<!-- Form to be added here -->
+				General Line : (+6) 082-570 128 <br />
+				Fax   		 : (+6) 082-570 248 <br />
+			</address>
+
+			
+
+			<!-- Contact Form -->
+			<!-- TODO: test if email sending works -->
 			<?php echo $form; ?>
 
 			<br />

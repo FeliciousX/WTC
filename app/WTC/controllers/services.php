@@ -4,7 +4,7 @@ class Services extends MY_Controller {
 
 	public function index()
 	{
-		$this->data['title'] = '- EBIS | Our Services -';
+		$this->data['title'] = '- WTC | Our Services -';
 
 		$this->load->helper('url');
 

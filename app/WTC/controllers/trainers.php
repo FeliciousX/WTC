@@ -4,7 +4,7 @@ class Trainers extends MY_Controller {
 
 	public function index()
 	{
-		$this->data['title'] = '- EBIS | Our Trainers -';
+		$this->data['title'] = '- WTC | Our Trainers -';
 
 		$this->load->helper('url');
 

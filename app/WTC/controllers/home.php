@@ -4,7 +4,7 @@ class Home extends MY_Controller {
 
 	public function index()
 	{
-		$this->data['title'] = '- EBIS -';
+		$this->data['title'] = '- WTC -';
 
 		$this->load->helper('url');
 

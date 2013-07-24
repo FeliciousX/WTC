@@ -4,7 +4,7 @@ class Clients extends MY_Controller {
 
 	public function index()
 	{
-		$this->data['title'] = '- EBIS | Our Clients -';
+		$this->data['title'] = '- WTC | Our Clients -';
 
 		$this->load->helper('url');
 

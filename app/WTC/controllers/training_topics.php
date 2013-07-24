@@ -4,7 +4,7 @@ class Training_topics extends MY_Controller {
 
 	public function index()
 	{
-		$this->data['title'] = '- EBIS | Training Topics -';
+		$this->data['title'] = '- WTC | Training Topics -';
 
 		$this->load->helper('url');
 
